@@ -1,0 +1,27 @@
+[
+    {
+        "img": "/huge_signs/discord.png",
+        "url": "https://discord.gg/bZF4myU",
+        "weight": 3
+    },
+    {
+        "img": "/huge_signs/leaderboards.png",
+        "url": "https://drednot.io/leaderboard/",
+        "weight": 3
+    },
+    {
+        "img": "/huge_signs/patreon.png",
+        "url": "https://drednot.io/patron_benefits/",
+        "weight": 3
+    },
+    {
+        "img": "/huge_signs/pvp.png",
+        "url": "https://drednot.io/pvp-events/",
+        "weight": 3
+    },
+    {
+        "img": "https://hetboeitmeniet.github.io/cheatengine/misc/sign.png",
+        "url": "",
+        "weight": 3
+    }
+]
